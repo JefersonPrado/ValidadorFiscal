@@ -1,0 +1,793 @@
+C:\Users\Precisão Sistemas\Downloads\Vpharma2.1_turbo-11-06-2021\ValidadorEpharma\bin\Debug\ValidadorEpharma.exe
+C:\Users\Precisão Sistemas\Downloads\Vpharma2.1_turbo-11-06-2021\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.AssemblyReference.cache
+C:\Users\Precisão Sistemas\Downloads\Vpharma2.1_turbo-11-06-2021\ValidadorEpharma\obj\Debug\ValidadorFiscal.Form1.resources
+C:\Users\Precisão Sistemas\Downloads\Vpharma2.1_turbo-11-06-2021\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.GenerateResource.cache
+C:\Users\Precisão Sistemas\Downloads\Vpharma2.1_turbo-11-06-2021\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.CoreCompileInputs.cache
+C:\Users\Precisão Sistemas\Downloads\Vpharma2.1_turbo-11-06-2021\ValidadorEpharma\obj\Debug\ValidadorFiscal.Properties.Resources.resources
+C:\Users\Precisão Sistemas\Downloads\Vpharma2.1_turbo-11-06-2021\ValidadorEpharma\bin\Debug\ValidadorFiscal.exe.config
+C:\Users\Precisão Sistemas\Downloads\Vpharma2.1_turbo-11-06-2021\ValidadorEpharma\bin\Debug\ValidadorFiscal.exe
+C:\Users\Precisão Sistemas\Downloads\Vpharma2.1_turbo-11-06-2021\ValidadorEpharma\bin\Debug\ValidadorFiscal.pdb
+C:\Users\Precisão Sistemas\Downloads\Vpharma2.1_turbo-11-06-2021\ValidadorEpharma\obj\Debug\ValidadorFiscal.exe
+C:\Users\Precisão Sistemas\Downloads\Vpharma2.1_turbo-11-06-2021\ValidadorEpharma\obj\Debug\ValidadorFiscal.pdb
+C:\Users\Precisao\Documents\MEGAsync Downloads\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.exe.config
+C:\Users\Precisao\Documents\MEGAsync Downloads\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.exe
+C:\Users\Precisao\Documents\MEGAsync Downloads\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.pdb
+C:\Users\Precisao\Documents\MEGAsync Downloads\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.AssemblyReference.cache
+C:\Users\Precisao\Documents\MEGAsync Downloads\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.Form1.resources
+C:\Users\Precisao\Documents\MEGAsync Downloads\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.Properties.Resources.resources
+C:\Users\Precisao\Documents\MEGAsync Downloads\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.GenerateResource.cache
+C:\Users\Precisao\Documents\MEGAsync Downloads\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.CoreCompileInputs.cache
+C:\Users\Precisao\Documents\MEGAsync Downloads\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.exe
+C:\Users\Precisao\Documents\MEGAsync Downloads\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.exe.config
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.exe
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.AssemblyReference.cache
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.SuggestedBindingRedirects.cache
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.Form1.resources
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.Properties.Resources.resources
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.GenerateResource.cache
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.CoreCompileInputs.cache
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.exe
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v2\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.AssemblyReference.cache
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v2\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.SuggestedBindingRedirects.cache
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v2\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.Form1.resources
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v2\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.Properties.Resources.resources
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v2\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.GenerateResource.cache
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v2\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.CoreCompileInputs.cache
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v2\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.exe
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v2\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v2\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.exe.config
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v2\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.exe
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v2\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.AssemblyReference.cache
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.SuggestedBindingRedirects.cache
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.Form1.resources
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.Properties.Resources.resources
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.GenerateResource.cache
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.CoreCompileInputs.cache
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.exe
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.exe.config
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.exe
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Azure.Core.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Azure.Identity.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Buffers.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Memory.Data.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Memory.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.AccessControl.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.Permissions.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Json.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.ValueTuple.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Azure.Core.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Azure.Identity.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Buffers.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Memory.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Memory.Data.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.AccessControl.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.Permissions.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Json.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.ValueTuple.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.CopyComplete
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.Form2.resources
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\libzstd.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\snappy32.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\snappy64.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\libsnappy64.so
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\libzstd.so
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\libsnappy64.dylib
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\libzstd.dylib
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\mongocrypt.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\DnsClient.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\MongoDB.Bson.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\SharpCompress.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\DnsClient.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\MongoDB.Bson.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v3\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\libzstd.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\snappy32.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\snappy64.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\libsnappy64.so
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\libzstd.so
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\libsnappy64.dylib
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\libzstd.dylib
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\mongocrypt.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.exe.config
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.exe.manifest
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.application
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.exe
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Azure.Core.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Azure.Identity.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\DnsClient.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\MongoDB.Bson.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\SharpCompress.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Buffers.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Memory.Data.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Memory.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.AccessControl.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.Permissions.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Json.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.ValueTuple.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Azure.Core.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Azure.Identity.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\DnsClient.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\MongoDB.Bson.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Buffers.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Memory.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Memory.Data.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.AccessControl.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.Permissions.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Json.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.ValueTuple.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.AssemblyReference.cache
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.SuggestedBindingRedirects.cache
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.Form1.resources
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.Form2.resources
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.Properties.Resources.resources
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.GenerateResource.cache
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.exe.licenses
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.CoreCompileInputs.cache
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.exe.manifest
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.application
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.CopyComplete
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.exe
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v4\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\libzstd.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\snappy32.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\snappy64.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\libsnappy64.so
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\libzstd.so
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\libsnappy64.dylib
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\libzstd.dylib
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\mongocrypt.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.exe.config
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.exe.manifest
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.application
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.exe
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Azure.Core.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Azure.Identity.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\DnsClient.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\MongoDB.Bson.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\SharpCompress.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Buffers.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Memory.Data.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Memory.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.AccessControl.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.Permissions.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Json.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.ValueTuple.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Azure.Core.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Azure.Identity.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\DnsClient.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\MongoDB.Bson.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Buffers.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Memory.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Memory.Data.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.AccessControl.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.Permissions.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Json.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.ValueTuple.xml
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.AssemblyReference.cache
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.SuggestedBindingRedirects.cache
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.Form1.resources
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.Properties.Resources.resources
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.GenerateResource.cache
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.exe.licenses
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.CoreCompileInputs.cache
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.exe.manifest
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.application
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.CopyComplete
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.exe
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.pdb
+C:\Users\JEFERSON\Downloads\repos\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\libzstd.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\snappy32.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\snappy64.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\libsnappy64.so
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\libzstd.so
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\libsnappy64.dylib
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\libzstd.dylib
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\mongocrypt.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.exe.config
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.exe.manifest
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.application
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.exe
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ValidadorFiscal.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Azure.Core.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Azure.Identity.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\DnsClient.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\MongoDB.Bson.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\SharpCompress.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Buffers.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Memory.Data.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Memory.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.AccessControl.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.Permissions.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Json.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.ValueTuple.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Azure.Core.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Azure.Identity.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\DnsClient.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\MongoDB.Bson.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Buffers.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Memory.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Memory.Data.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.AccessControl.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.Permissions.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Text.Json.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\System.ValueTuple.xml
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.AssemblyReference.cache
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.SuggestedBindingRedirects.cache
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.Form1.resources
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.Properties.Resources.resources
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.GenerateResource.cache
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.exe.licenses
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.CoreCompileInputs.cache
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.exe.manifest
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.application
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.csproj.CopyComplete
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.exe
+C:\Users\JEFERSON-CASA\source\repos\validador jefinho v7\validador jefinho v5\validador jefinho\ValidadorFiscal\ValidadorFiscal\ValidadorEpharma\obj\Debug\ValidadorFiscal.pdb

@@ -1,0 +1,58 @@
+C:\Users\ALANZERA\source\repos\ValidadorEpharma\ValidadorEpharma\bin\Debug\ValidadorEpharma.exe.config
+C:\Users\ALANZERA\source\repos\ValidadorEpharma\ValidadorEpharma\bin\Debug\ValidadorEpharma.exe
+C:\Users\ALANZERA\source\repos\ValidadorEpharma\ValidadorEpharma\bin\Debug\ValidadorEpharma.pdb
+C:\Users\ALANZERA\source\repos\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.Properties.Resources.resources
+C:\Users\ALANZERA\source\repos\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.csproj.GenerateResource.cache
+C:\Users\ALANZERA\source\repos\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.csproj.CoreCompileInputs.cache
+C:\Users\ALANZERA\source\repos\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.exe
+C:\Users\ALANZERA\source\repos\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.pdb
+C:\Users\ALANZERA\source\repos\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.Form1.resources
+C:\Users\ALANZERA\source\repos\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.csprojAssemblyReference.cache
+C:\Users\ALANZERA\Downloads\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\bin\Debug\ValidadorEpharma.exe.config
+C:\Users\ALANZERA\Downloads\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\bin\Debug\ValidadorEpharma.exe
+C:\Users\ALANZERA\Downloads\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\bin\Debug\ValidadorEpharma.pdb
+C:\Users\ALANZERA\Downloads\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.csprojAssemblyReference.cache
+C:\Users\ALANZERA\Downloads\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.Form1.resources
+C:\Users\ALANZERA\Downloads\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.Properties.Resources.resources
+C:\Users\ALANZERA\Downloads\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.csproj.GenerateResource.cache
+C:\Users\ALANZERA\Downloads\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.csproj.CoreCompileInputs.cache
+C:\Users\ALANZERA\Downloads\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.exe
+C:\Users\ALANZERA\Downloads\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.pdb
+C:\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\bin\Debug\ValidadorEpharma.exe.config
+C:\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\bin\Debug\ValidadorEpharma.exe
+C:\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\bin\Debug\ValidadorEpharma.pdb
+C:\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.csprojAssemblyReference.cache
+C:\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.Form1.resources
+C:\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.Properties.Resources.resources
+C:\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.csproj.GenerateResource.cache
+C:\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.csproj.CoreCompileInputs.cache
+C:\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.exe
+C:\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.pdb
+C:\Users\ALANZERA\Desktop\A\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\bin\Debug\ValidadorEpharma.exe.config
+C:\Users\ALANZERA\Desktop\A\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\bin\Debug\ValidadorEpharma.exe
+C:\Users\ALANZERA\Desktop\A\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\bin\Debug\ValidadorEpharma.pdb
+C:\Users\ALANZERA\Desktop\A\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.csprojAssemblyReference.cache
+C:\Users\ALANZERA\Desktop\A\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.Form1.resources
+C:\Users\ALANZERA\Desktop\A\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.Properties.Resources.resources
+C:\Users\ALANZERA\Desktop\A\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.csproj.GenerateResource.cache
+C:\Users\ALANZERA\Desktop\A\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.csproj.CoreCompileInputs.cache
+C:\Users\ALANZERA\Desktop\A\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.exe
+C:\Users\ALANZERA\Desktop\A\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.pdb
+C:\Users\ALANZERA\Downloads\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\bin\Debug\ValidadorEpharma.exe.config
+C:\Users\ALANZERA\Downloads\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\bin\Debug\ValidadorEpharma.exe
+C:\Users\ALANZERA\Downloads\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\bin\Debug\ValidadorEpharma.pdb
+C:\Users\ALANZERA\Downloads\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.Form1.resources
+C:\Users\ALANZERA\Downloads\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.Properties.Resources.resources
+C:\Users\ALANZERA\Downloads\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.csproj.GenerateResource.cache
+C:\Users\ALANZERA\Downloads\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.csproj.CoreCompileInputs.cache
+C:\Users\ALANZERA\Downloads\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.exe
+C:\Users\ALANZERA\Downloads\ValidadorEpharma_turbo\ValidadorEpharma_turbo\ValidadorEpharma\ValidadorEpharma\obj\Debug\ValidadorEpharma.pdb
+C:\Users\Precisão Sistemas\Downloads\Vpharma2.1_turbo-11-06-2021\ValidadorEpharma\bin\Debug\ValidadorEpharma.exe.config
+C:\Users\Precisão Sistemas\Downloads\Vpharma2.1_turbo-11-06-2021\ValidadorEpharma\bin\Debug\ValidadorEpharma.exe
+C:\Users\Precisão Sistemas\Downloads\Vpharma2.1_turbo-11-06-2021\ValidadorEpharma\bin\Debug\ValidadorEpharma.pdb
+C:\Users\Precisão Sistemas\Downloads\Vpharma2.1_turbo-11-06-2021\ValidadorEpharma\obj\Debug\ValidadorEpharma.Form1.resources
+C:\Users\Precisão Sistemas\Downloads\Vpharma2.1_turbo-11-06-2021\ValidadorEpharma\obj\Debug\ValidadorEpharma.Properties.Resources.resources
+C:\Users\Precisão Sistemas\Downloads\Vpharma2.1_turbo-11-06-2021\ValidadorEpharma\obj\Debug\ValidadorEpharma.csproj.GenerateResource.cache
+C:\Users\Precisão Sistemas\Downloads\Vpharma2.1_turbo-11-06-2021\ValidadorEpharma\obj\Debug\ValidadorEpharma.csproj.CoreCompileInputs.cache
+C:\Users\Precisão Sistemas\Downloads\Vpharma2.1_turbo-11-06-2021\ValidadorEpharma\obj\Debug\ValidadorEpharma.exe
+C:\Users\Precisão Sistemas\Downloads\Vpharma2.1_turbo-11-06-2021\ValidadorEpharma\obj\Debug\ValidadorEpharma.pdb
